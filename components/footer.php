@@ -1,3 +1,5 @@
+
+<!-- This is footer Page -->
         </main>
         <footer class="bg-gray-900 text-white">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
@@ -58,6 +60,6 @@
                     <p>© 2024 CHRONO. All rights reserved.</p>
                 </div>
             </div>
-            </footer>
+        </footer>
     </body>
 </html>

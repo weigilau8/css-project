@@ -1,3 +1,6 @@
+
+<!-- This is header page -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

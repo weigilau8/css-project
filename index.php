@@ -24,7 +24,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Classic Chronograph" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/1.jpeg" alt="Classic Chronograph" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Elegant Automatic" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/2.jpeg" alt="Elegant Automatic" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -42,7 +42,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Sport Edition" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/3.jpeg" alt="Sport Edition" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -74,7 +74,7 @@
                         <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
                     </svg>
                 </div>
-                <p class="text-gray-600 mb-4">The craftsmanship is exceptional. Worth every penny.</p>
+                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic, est. Optio, soluta! Labore tempore minima dolor dolores et quibusdam, magni obcaecati, omnis nihil doloremque amet optio, perferendis veniam provident pariatur.</p>
                 <div>
                     <p class="font-semibold">James Wilson</p>
                     <p class="text-sm text-gray-500">CEO, TechCorp</p>
@@ -98,7 +98,7 @@
                         <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
                     </svg>
                 </div>
-                <p class="text-gray-600 mb-4">Elegant timepieces that stand out. Excellent service.</p>
+                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic, est. Optio, soluta! Labore tempore minima dolor dolores et quibusdam, magni obcaecati, omnis nihil doloremque amet optio, perferendis veniam provident pariatur.</p>
                 <div>
                     <p class="font-semibold">Sarah Chen</p>
                     <p class="text-sm text-gray-500">Designer</p>
@@ -122,7 +122,7 @@
                         <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
                     </svg>
                 </div>
-                <p class="text-gray-600 mb-4">A perfect blend of tradition and innovation.</p>
+                <p class="text-gray-600 mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic, est. Optio, soluta! Labore tempore minima dolor dolores et quibusdam, magni obcaecati, omnis nihil doloremque amet optio, perferendis veniam provident pariatur.</p>
                 <div>
                     <p class="font-semibold">Michael Brown</p>
                     <p class="text-sm text-gray-500">Watch Collector</p>

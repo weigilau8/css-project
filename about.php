@@ -60,7 +60,10 @@
                         <p>Each CHRONO timepiece is assembled by hand in our workshop, undergoing rigorous quality control to ensure it meets our exacting standards.</p>
                     </div>
                 </div>
-                <div class="grid grid-cols-2 gap-4"><img src="https://images.unsplash.com/photo-1524592094714-0f0654e20314?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Watchmaking craft" class="w-full h-64 object-cover rounded-lg"><img src="https://images.unsplash.com/photo-1509048191080-d2984bad6ae5?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Watch workshop" class="w-full h-64 object-cover rounded-lg"></div>
+                <div class="grid grid-cols-2 gap-4">
+                    <img src="./dist/img/a1.jpeg" alt="Watchmaking craft" class="w-full h-64 object-cover rounded-lg">
+                    <img src="./dist/img/a2.jpeg" alt="Watch workshop" class="w-full h-64 object-cover rounded-lg">
+                </div>
                 </div>
             </div>
         </section>

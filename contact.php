@@ -65,7 +65,9 @@
                   </div>
                </div>
             </div>
-            <div class="aspect-w-16 aspect-h-9"><img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=1600&amp;q=80" alt="Location" class="w-full h-64 object-cover rounded-lg"></div>
+            <div class="aspect-w-16 aspect-h-9">
+               <img src="./dist/img/c1.jpeg" alt="Location" class="w-full h-64 object-cover rounded-lg">
+            </div>
          </div>
       </div>
    </div>

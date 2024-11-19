@@ -41,7 +41,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Classic Chronograph" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/1.jpeg" alt="Classic Chronograph" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Elegant Automatic" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/2.jpeg" alt="Elegant Automatic" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Sport Edition" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/3.jpeg" alt="Sport Edition" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Minimalist Series" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/4.jpeg" alt="Minimalist Series" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Diver Pro" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/1.jpeg" alt="Diver Pro" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
@@ -86,7 +86,7 @@
                 </div>
                 <div class="group">
                 <div class="relative overflow-hidden rounded-lg mb-4">
-                    <img src="https://images.unsplash.com/photo-1523170335258-f5ed11844a49?ixlib=rb-4.0.3&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80" alt="Heritage Collection" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
+                    <img src="./dist/img/2.jpeg" alt="Heritage Collection" class="w-full h-80 object-cover transform group-hover:scale-105 transition duration-500">
                     <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition"></div>
                     <button class="absolute bottom-4 left-4 right-4 bg-white text-gray-900 py-2 rounded-md opacity-0 group-hover:opacity-100 transition">View Details</button>
                 </div>
