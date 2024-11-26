@@ -62,7 +62,7 @@
                      </svg>
                      <div>
                         <h3 class="font-semibold">Address</h3>
-                        <p class="text-gray-600">123 Luxury Lane<br>New York, NY 10001</p>
+                        <p class="text-gray-600">120 Bloor <br>Toronto, ON 10001</p>
                      </div>
                   </div>
                   <div class="flex items-start space-x-4">
