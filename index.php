@@ -1,5 +1,5 @@
 <?php
-    include './components/header.php';
+    require './components/header.php';
 ?>
     
     <section class="relative h-screen flex items-center">

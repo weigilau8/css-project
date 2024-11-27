@@ -1,6 +1,6 @@
 
 <!-- This is header page -->
-<ti?php
+<?php
     $current_page = $_SERVER['REQUEST_URI'];
 ?>
 
@@ -39,15 +39,33 @@
                             <a class="text-gray-700 hover:text-indigo-400 transition <?php echo ($current_page == '/home.php' || $current_page == '/contact.php') ? 'text-indigo-600': '' ?>" href="/contact.php">Contact</a>
                         </div>
                         <div class="md:hidden flex items-center">
-                            <button class="text-gray-700 hover:text-indigo-600 transition">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu h-6 w-6">
-                                <line x1="4" x2="20" y1="12" y2="12"></line>
-                                <line x1="4" x2="20" y1="6" y2="6"></line>
-                                <line x1="4" x2="20" y1="18" y2="18"></line>
-                            </svg>
+                            <button id="button-mobile" class="text-gray-700 hover:text-indigo-600 transition">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu h-6 w-6">
+                                    <line x1="4" x2="20" y1="12" y2="12"></line>
+                                    <line x1="4" x2="20" y1="6" y2="6"></line>
+                                    <line x1="4" x2="20" y1="18" y2="18"></line>
+                                </svg>
                             </button>
                         </div>
+                        <!-- Navigation Menu -->
+                        
                     </div>
+                    <nav id="mobile-nav" class="hidden p-2">
+                        <ul>
+                            <li class="p-2">
+                                <a href="/" class="block text-gray-700 hover:text-indigo-600 <?php echo ($current_page == '/home.php' || $current_page == '/') ? 'text-indigo-600': '' ?>">Home</a>
+                            </li>
+                            <li class="p-2">
+                                <a href="/about.php" class="block text-gray-700 hover:text-indigo-600 <?php echo ($current_page == '/about.php') ? 'text-indigo-600': '' ?>">About</a>
+                            </li>
+                            <li class="p-2">
+                                <a href="/products.php" class="block text-gray-700 hover:text-indigo-600 <?php echo ($current_page == '/products.php') ? 'text-indigo-600': '' ?>">Products</a>
+                            </li>
+                            <li class="p-2">
+                                <a href="/contact.php" class="block text-gray-700 hover:text-indigo-600 <?php echo ($current_page == '/contact.php') ? 'text-indigo-600': '' ?>">Contact</a>
+                            </li>
+                        </ul>
+                    </nav>
                 </div>
             </nav>
         </header>

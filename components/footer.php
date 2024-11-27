@@ -64,6 +64,35 @@
             </div>
         </footer>
 
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>
+            console.log('Script is loaded');
+            document.getElementById('button-mobile').addEventListener('click', function() {
+                console.log('fsd');
+                const nav = document.getElementById('mobile-nav');
+                nav.classList.toggle('hidden'); // Toggles the 'hidden' class
+            });
 
+            // Products array in JavaScript
+            const products = <?= json_encode($products); ?>;
+
+            console.log(products);
+            // Open modal function
+            function openModal(index) {
+                const product = products[index];
+                document.getElementById('modalImage').src = product.image;
+                document.getElementById('modalImage').alt = product.alt;
+                document.getElementById('modalTitle').textContent = product.title;
+                document.getElementById('modalPrice').textContent = product.price;
+                
+                // Show the modal
+                document.getElementById('productModal').classList.remove('hidden');
+            }
+
+            // Close modal function
+            function closeModal() {
+                document.getElementById('productModal').classList.add('hidden');
+            }
+        </script>    
     </body>
 </html>
