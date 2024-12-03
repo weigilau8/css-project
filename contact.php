@@ -1,16 +1,16 @@
 <?php
     include './components/header.php';
 ?>
-    <div class="pt-16">
-   <div class="bg-gray-900 text-white py-20">
+<div class="pt-16">
+   <section class="bg-gray-900 text-white py-20">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
          <h1 class="text-4xl font-serif font-bold mb-4">Contact Us</h1>
          <p class="text-xl text-gray-300">We're here to help with any questions about our timepieces</p>
       </div>
-   </div>
-   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+   </section>
+   <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
-         <div class="bg-white p-8 rounded-lg shadow-lg">
+         <aside class="bg-white p-8 rounded-lg shadow-lg">
             <h2 class="text-2xl font-serif font-bold mb-6">Send Us a Message</h2>
             <form class="space-y-6"  onsubmit="return confirm('Message Sent');">
                <div>
@@ -31,8 +31,8 @@
                </div>
                <button type="submit" class="w-full bg-indigo-600 text-white py-3 rounded-md hover:bg-indigo-700 transition">Send Message</button>
             </form>
-         </div>
-         <div class="space-y-8">
+         </aside>
+         <address class="space-y-8">
             <div>
                <h2 class="text-2xl font-serif font-bold mb-6">Contact Information</h2>
                <div class="space-y-4">
@@ -80,9 +80,9 @@
             <div class="aspect-w-16 aspect-h-9">
                <img src="./dist/img/c1.jpeg" alt="Location" class="w-full h-64 object-cover rounded-lg">
             </div>
-         </div>
+         </address>
       </div>
-   </div>
+   </section>
 </div>
 
 <?php
