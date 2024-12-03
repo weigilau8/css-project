@@ -64,7 +64,7 @@
                 </div>
             </footer>
         </div>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script src="./dist/js/jquery.min.js"></script>
         <script>
             console.log('Script is loaded');
             document.getElementById('button-mobile').addEventListener('click', function() {
