@@ -42,14 +42,14 @@
 ?>
     
     <div class="pt-16">
-        <div class="bg-gray-900 text-white py-20">
+        <section class="bg-gray-900 text-white py-20">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h1 class="text-4xl font-serif font-bold">Our Collection</h1>
                 <p class="mt-4 text-gray-300">Discover our range of exceptional timepieces</p>
             </div>
-        </div>
+        </section>
         
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <?php foreach ($products as $index => $product): ?>
                     <div class="group">
@@ -69,7 +69,7 @@
                 <?php endforeach; ?>
             </div>
 
-        </div>
+        </section>
     </div>
 
     <!-- Modal -->
