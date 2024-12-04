@@ -944,7 +944,7 @@ video {
 }
 
 
-
+/* starts the code for tablet display */
 @media (min-width: 640px) {
     .sm\:px-3 {
         padding-left:.75rem;
@@ -957,6 +957,7 @@ video {
     }
 }
 
+/* starts on tablet or desktop display */
 @media (min-width: 768px) {
     .md\:flex {
         display:flex
@@ -1000,6 +1001,7 @@ video {
     }
 }
 
+/* starts on wider screen */
 @media (min-width: 1024px) {
     .lg\:grid-cols-2 {
         grid-template-columns:repeat(2,minmax(0,1fr))
